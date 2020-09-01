@@ -1,1 +1,16 @@
-﻿  AIGame.vcxproj -> E:\Old Windows User\Desktop\AI Mihai Cosmin Stanescu\AIGame 15-05\Debug\AIGame.exe
+﻿  AIGame.cpp
+  Bullet.cpp
+  Camera.cpp
+  Cube.cpp
+  Enemy.cpp
+  GameAI.cpp
+C:\Users\crazy\Documents\GitHub\AIGame\AIGame\GameAI.cpp(27,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\crazy\Documents\GitHub\AIGame\AIGame\GameAI.cpp(33,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\crazy\Documents\GitHub\AIGame\AIGame\GameAI.cpp(79,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\crazy\Documents\GitHub\AIGame\AIGame\GameAI.cpp(83,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\crazy\Documents\GitHub\AIGame\AIGame\GameAI.cpp(137,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\crazy\Documents\GitHub\AIGame\AIGame\GameAI.cpp(149,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\crazy\Documents\GitHub\AIGame\AIGame\GameAI.cpp(212,20): warning C4018: '<': signed/unsigned mismatch
+  imageloader.cpp
+  Generating Code...
+  AIGame.vcxproj -> C:\Users\crazy\Documents\GitHub\AIGame\Debug\AIGame.exe

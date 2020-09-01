@@ -46,6 +46,9 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
+    <IncludePath>C:\Users\crazy\Documents\GitHub\AIGame\AIGame\glut;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\crazy\Documents\GitHub\AIGame\AIGame\glut;$(LibraryPath)</LibraryPath>
+    <LibraryWPath>C:\Users\crazy\Documents\GitHub\AIGame\AIGame\glut;$(LibraryWPath)</LibraryWPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>

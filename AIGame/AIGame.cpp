@@ -4,6 +4,7 @@
 #include "Bullet.h"
 #include <iostream>
 #include <time.h>
+#include <gl/GLU.h>
 
 using namespace std;
 
