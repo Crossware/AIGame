@@ -1,6 +1,7 @@
 # AIGame
 For best results keep native resolution without rescaling window.</br>
-This game was created for an AI class in collaboration with another student.</br>
+This game was created for an AI class in collaboration with another student in 2015.</br>
+Playable build can be found under the Debug folder.</br>
 
 ## Escape the maze!
 There is a construct in the maze who's sole purpose is to find you and kill you, escape the maze before it does!</br>
